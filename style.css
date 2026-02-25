@@ -93,29 +93,6 @@ main { padding-bottom: 4rem; }
 
 .span-12 { grid-column: span 12; }
 
-.tool-list {
-  display: grid;
-  gap: 0.9rem;
-  margin-top: 0.6rem;
-}
-
-.tool-item {
-  border: 1px solid var(--line);
-  border-radius: 12px;
-  padding: 1rem;
-  background: #fff;
-}
-
-.tool-item h3 {
-  margin: 0 0 0.45rem;
-  font-size: 1.15rem;
-}
-
-.tool-item p {
-  margin: 0;
-  color: var(--sub);
-}
-
 footer {
   padding: 2rem 0 3rem;
   color: var(--sub);
